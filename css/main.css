@@ -107,12 +107,13 @@ a:hover {
 .grid-detalle-sesion {
   display: grid;
   grid-template-columns: 1fr;
-
+  row-gap: 1em;
 }
 
 .grid-detalle-sesion2 {
   display: grid;
   grid-template-columns: 1fr;
+  row-gap: 1em;
 }
 
 .grid-detalle-sesion div {
