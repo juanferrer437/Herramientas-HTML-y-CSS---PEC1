@@ -11,7 +11,7 @@ body {
 }
 
 section {
-  width: 70%;
+  width: 95%;
   margin: 40px auto;
   text-align: justify;
   font-size: 1.2em;
@@ -163,6 +163,14 @@ a:hover {
 
 /* menu ordenador */
 @media all and (min-width: 1000px) {
+
+  section {
+    width: 70%;
+    margin: 40px auto;
+    text-align: justify;
+    font-size: 1.2em;
+  }
+  
   .item {
     display: block;
     width: auto;
