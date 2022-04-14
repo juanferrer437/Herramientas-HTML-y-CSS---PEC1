@@ -104,6 +104,15 @@ a:hover {
   font-size: 1.3em;
 }
 
+a.hed {
+  color:white;
+  text-decoration: none;
+}
+a.hed:hover {
+  font-size:1em;
+}
+
+
 .grid-detalle-sesion {
   display: grid;
   grid-template-columns: 1fr;
