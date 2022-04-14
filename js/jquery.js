@@ -1,9 +1,4 @@
-$(document).ready(function() {
-    $('#pgwSlider').pgwSlider();
-    alert ("Hola");
-});
-
-$(function () {
+$(document).ready(function () {
     $(".toggle").on("click", function () {
         if ($(".item").hasClass("active")) {
             $(".item").removeClass("active");
@@ -12,9 +7,5 @@ $(function () {
             $(".item").addClass("active");
             $(this).find("a").html("<i class='fas fa-times'></i>");
         }
-    });
-
-
-
-    
+});
 });
