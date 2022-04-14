@@ -173,12 +173,9 @@ a.hed:hover {
 
 /* menu ordenador */
 @media all and (min-width: 1000px) {
-
   section {
     width: 70%;
-    margin: 40px auto;
-    text-align: justify;
-    font-size: 1.2em;
+    font-size: 1em;
   }
   
   .item {
