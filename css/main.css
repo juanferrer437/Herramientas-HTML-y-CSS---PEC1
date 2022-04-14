@@ -192,15 +192,10 @@ a.hed:hover {
   .item {
     order: 1;
   }
-
-  .button {
-    order: 2;
-  }
-
+ 
   .menu li {
     padding: 15px 10px;
   }
-
 
   .grid-detalle-sesion {
     margin-top: 20px;
