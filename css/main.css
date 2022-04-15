@@ -252,12 +252,10 @@ a.hed:hover {
 }
 
 .datagrid {
-  font: normal 12px/150% Arial, Helvetica, sans-serif;
+  font-size:0.8em;
   background: #fff;
   overflow: hidden;
   border: 1px solid #8c8c8c;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
   border-radius: 3px;
 }
 
@@ -267,13 +265,6 @@ a.hed:hover {
 }
 
 .datagrid table thead th {
-  background: -webkit-gradient(linear,
-      left top,
-      left bottom,
-      color-stop(0.05, #8c8c8c),
-      color-stop(1, #7d7d7d));
-  background: -moz-linear-gradient(center top, #8c8c8c 5%, #7d7d7d 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8C8C8C', endColorstr='#7D7D7D');
   background-color: #8c8c8c;
   color: #ffffff;
   font-size: 15px;
