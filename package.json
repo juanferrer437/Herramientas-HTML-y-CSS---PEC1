@@ -8,9 +8,10 @@
   "license": "pec1",
   "author": "Juan Ferrer",
   "browserslist": [
-    "defaults", 
+    "defaults",
     "since 2016",
-    "not dead"],
+    "not dead"
+  ],
   "scripts": {
     "parcel:dev": "parcel index.html --open",
     "parcel:build": "parcel build index.html",
